@@ -1,8 +1,13 @@
 ## Welcome to Eduardo's Profile 🚀🚀🚀🚀
 
+
+
+
+
+
 ### A little about me...
 
-  Coming from an Engineering background, i am used to solve logical problems and that's what i love in programming, it makes me feel like i can apply the knowledge i already have but for building infinite  solutions without needing a lot (only my notebook and it's fine!! 🤓).
+  Coming from an Engineering background, i am used to solve logical problems and that's what i love in programming, it makes me feel like i can apply the knowledge i already have but for building infinite  solutions without needing a lot (only my notebook and it's fine!! 🤓).  
  
    #### Importante points in my life:
   * I have a beatiful wife 👩 (my lovely Bruna 😍 that i'm passionate about)
@@ -12,6 +17,7 @@
 
   
  ##
+ 
  <div>
  
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=EDUSSBR&show_icons=true&theme=codeSTACKr&layout=compact&card_width=400px&include_all_commits=true&count_private=true&custom_title=My%20getting%20up%20status..%20%F0%9F%A7%91%E2%80%8D%F0%9F%9A%80)](https://github.com/anuraghazra/github-readme-stats)
@@ -74,8 +80,18 @@
 
 
 <!--
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EDUSSBR&repo=github-readme-stats&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+### Some project i've been working on the bootcamp i'm breathing:
+Usually we make one per week, so i'll put them here only because it's really what i am studing in the moment.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EDUSSBR&repo=projeto8-jogoforca&theme=codeSTACKr&description=test)](https://github.com/EDUSSBR/projeto8-jogoforca)
+
+
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EDUSSBR&repo=projeto8-jogoforca&theme=ocean_dark)](https://github.com/EDUSSBR/projeto8-jogoforca)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EDUSSBR&repo=driven-eats&theme=ocean_dark)](https://github.com/EDUSSBR/driven-eats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EDUSSBR&repo=projeto7-instagramreact&theme=ocean_dark)](https://github.com/EDUSSBR/projeto7-instagramreact)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EDUSSBR&repo=projeto5-batepapouol&theme=ocean_dark)](https://github.com/EDUSSBR/projeto5-batepapouol)
+
+
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
 **EDUSSBR/EDUSSBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
