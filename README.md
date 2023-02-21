@@ -67,6 +67,8 @@
             <img  width=40px height=40px  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />         
 </div>       
 
+##
+
 ### Contact me
 <div> 
   <a href="https://www.instagram.com/bls_dudu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
