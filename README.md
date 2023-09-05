@@ -20,10 +20,8 @@
  
  <div>
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=EDUSSBR&show_icons=true&theme=codeSTACKr&layout=compact&card_width=400px&include_all_commits=true&count_private=true&custom_title=My%20getting%20up%20status..%20%F0%9F%A7%91%E2%80%8D%F0%9F%9A%80)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EDUSSBR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=EDUSSBR&show_icons=true&theme=codeSTACKr&layout=compact&card_width=400px&include_all_commits=true&count_private=true&custom_title=My%20getting%20up%20status..%20%F0%9F%A7%91%E2%80%8D%F0%9F%9A%80)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EDUSSBR)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
